@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5179690477962269219
+  m_GuidHigh: 10880615345112781490
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4679052610787739499
+      m_GuidHigh: 5164413015402177690
+    m_SerializedTextureGuid:
+      m_GuidLow: 1244296285168974161
+      m_GuidHigh: 8541244294681821578
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: qr-code
+    m_Texture: {fileID: 2800000, guid: f8d5b951a0e011448a8157bc6e988876, type: 3}

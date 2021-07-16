@@ -12,7 +12,9 @@ EditorBuildSettings:
     path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.6.0/Hello Cardboard/Scenes/VrMode.unity
     guid: 4812ec05e87b8414abcdfe0d625c0e60
   - enabled: 1
-    path: Assets/Scenes/VuforiaScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/ArFoundationImageTracking.unity
+    guid: 2333d020a85564a49a55d5fee65cfabb
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f29b34e774d074b49a14669a7e565b9f, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: b918423cf864e084c9fd7c816dd86267, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f8fab5e926051f0468e5b92eca5377fc, type: 2}
