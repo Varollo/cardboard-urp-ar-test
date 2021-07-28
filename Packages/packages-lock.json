@@ -8,7 +8,7 @@
         "com.unity.xr.management": "3.2.9",
         "com.unity.xr.legacyinputhelpers": "2.1.4"
       },
-      "hash": "48e5eafae7d60bf65b5be9435a70b7234a474062"
+      "hash": "3d41af91480a8fc57eec843f33888cd00e8570f2"
     },
     "com.ptc.vuforia.engine": {
       "version": "git+https://git-packages.developer.vuforia.com#9.8.8",

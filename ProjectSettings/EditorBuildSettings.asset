@@ -6,7 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.6.0/Hello Cardboard/Scenes/VrMode.unity
+    path: Assets/Scenes/Home.unity
+    guid: 5ea8fcb94509074439d3e6de8ed9b3e6
+  - enabled: 1
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.7.0/Hello Cardboard/Scenes/VrMode.unity
     guid: 4812ec05e87b8414abcdfe0d625c0e60
   - enabled: 1
     path: Assets/Scenes/VuforiaScene.unity
